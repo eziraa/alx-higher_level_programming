@@ -4,6 +4,13 @@
 
 class MayList(list):
     pass
+
+    """a subclass of list"""
+
+    def __init__(self):
+        """initializes the object"""
+        super().__init__()
+
     # defining a function which sort a list
 
     def print_sorted(self):
