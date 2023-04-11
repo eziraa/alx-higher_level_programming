@@ -2,7 +2,7 @@
 """Defines a class-checking function."""
 
 
-def is_kind_of(obj, a_class):
+def is_kind_of_class(obj, a_class):
     """Check if an object is exactly an instance of a given class.
 
     Args:
