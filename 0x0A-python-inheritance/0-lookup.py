@@ -1,2 +1,2 @@
-def look_up(obj):
+def lookup(obj):
     return (dir(obj))
