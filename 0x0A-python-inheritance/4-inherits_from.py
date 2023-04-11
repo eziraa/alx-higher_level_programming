@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defining sub class chacking """
+"""Defines an inherited class-checking function."""
 
 
 def inherits_from(obj, a_class):
