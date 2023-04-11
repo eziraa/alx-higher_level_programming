@@ -6,7 +6,7 @@ def is_same_class(obj, a_class):
     """Chceck is the object is the instance of the given class
     Args : 
         obj (any) which is an object that can be tested
-        a_class(any) is the given class indication
+        a_class(type) is the given class indication
     Returns:
         Ture if the object is instance of the  given class  or false if not
          """
