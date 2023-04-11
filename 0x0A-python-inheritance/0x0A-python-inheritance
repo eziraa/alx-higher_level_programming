@@ -1,5 +1,0 @@
-#!/usr/bin/pyhton
-"""Define  a class with its funciton which sort a lis in asecnding order."""
-
-
-class MayList(List):
